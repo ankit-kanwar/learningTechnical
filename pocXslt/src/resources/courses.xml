@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course title="Intro to db">
+		<students>
+			<student id ="sid1">
+				<name>sn1</name>
+			</student>
+			<student id ="sid2">
+				<name>sn2</name>
+			</student>
+	  	</students> 
+	</course>
+	
+	<course title="Intro to python">
+		<students>
+			<student id="psid1">
+				<name>psn1</name>
+			</student>
+			<student id="psid2">
+				<name>psn1</name>
+			</student>
+		</students>
+	</course>
+</courses>

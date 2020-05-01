@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><students>
+	
+		
+			<student id="sid1">
+<name>sn1</name>
+</student>
+			<student id="sid2">
+<name>sn2</name>
+</student>
+	  	 
+	
+	
+	
+		
+			<student id="psid1">
+<name>psn1</name>
+</student>
+			<student id="psid2">
+<name>psn1</name>
+</student>
+		
+	
+</students>
