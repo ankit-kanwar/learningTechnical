@@ -1,0 +1,2 @@
+# learningTechnical
+poc, initiator projects
